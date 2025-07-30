@@ -1,1 +1,2 @@
-This is the second repository
+Extracting and Visualizing Stock Data
+Description
